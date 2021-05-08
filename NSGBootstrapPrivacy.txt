@@ -1,0 +1,7 @@
+All data collected during the bootstrap/activation process is locally maintained on the smartphone only during an ongoing activation and it is not shared with the App developer or any Third Party. The data collected for Bootstrapping purposes includes Wi-Fi SSID, Wi-Fi Security Algorithm, Wi-Fi Frequency, Wi-Fi Protocol, Android IP address, DNS IP address, Gateway MAC and IP address and NSG Activation URL.
+
+Location permissions are used just to get Wi-Fi connectivity information and are not required for the correct operation of the app.
+
+Camera access/permission is not required for the normal operation of the app and is just used in case the user wants to authenticate to the NSG Wi-Fi Access Point using a "Wi-Fi QrCode" that is present on the NSG and that includes all required information to establish the connection (Wi-Fi SSID and Wi-Fi password).
+
+The App only interacts with the NSG. There is no interaction with other entities.
